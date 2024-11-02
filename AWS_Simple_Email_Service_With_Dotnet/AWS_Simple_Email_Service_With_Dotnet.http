@@ -1,0 +1,6 @@
+@AWS_Simple_Email_Service_With_Dotnet_HostAddress = http://localhost:5167
+
+GET {{AWS_Simple_Email_Service_With_Dotnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
